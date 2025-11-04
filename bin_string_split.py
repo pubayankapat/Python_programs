@@ -14,4 +14,8 @@ if countOne % 2 == 1 or countZero % 2 == 1:
 else:
     currZero = 0;
     currOne = 0;
+    if currZero == countZero//2 and currOne == countOne//2:
 
+
+    # else:
+    #     print("-1")
